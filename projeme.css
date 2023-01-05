@@ -1,0 +1,177 @@
+
+#cik{
+    text-shadow: none;
+}
+    strong{
+        position:fixed;
+    bottom:15px;
+    right: 15px;
+    background-color: red;
+    }
+    table {
+        margin-top: 100px;
+    }
+
+    td {
+        background-color: red;
+        color: white;
+    }
+
+    #foto2 {
+        height: 500px;
+    }
+
+    body {
+        margin: 0 auto;
+        text-align: center;
+        width: 84.3em;
+    }
+
+    .index {
+        background-color: skyblue;
+
+    }
+
+hr{
+    margin-top: 20px;
+    
+}
+
+    a{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-decoration: none;
+        color: black;
+        text-shadow: 1px 0 4px #ccc, 1px 6px 9px #ff3, 1px -10px 2px rgb(255, 228, 92), -1px -10px 5px #f80, 1px -5px 5px #f20;
+
+    }
+
+    li {
+        list-style-type: none;
+        margin-top: 0.5em;
+        text-transform: uppercase;
+        position: relative;
+        height: 20px;
+    }
+
+    img {
+        border: 5px solid red;
+        width: 500px;
+    }
+
+    .ust {
+        display: flex;
+        background-color: red;
+        height: 3em;
+        padding: 10px;
+        justify-content: space-around;
+        border-radius: 10px;
+    }
+
+    .ust li {
+        width: 120px;
+        height: 50px;
+        position: relative;
+        bottom: 10px;
+        border-radius: 10px;
+
+
+    }
+
+    .ust li:hover {
+        background-color: green;
+        width: 200px;
+        transition: width 1s ease-in-out;
+
+    }
+
+    .ust a {
+        position: relative;
+        top: 10px;
+    }
+
+    .foto {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 1em;
+    }
+
+    .alt li {
+        padding: 5px;
+    }
+
+    .bilgi div {
+        background-color: aqua;
+        margin-top: 100px;
+        width: 25em;
+        border-radius: 10px;
+    }
+
+    .alt a {
+        text-shadow: 2px 2px 1px black;
+        color: white;
+    }
+
+    .bilgi {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #foto1,
+    #foto2 {
+        width: 20em;
+    }
+
+
+    #ph {
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-shadow: 0 0 5px gray;
+    }
+
+    #tk {
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-shadow: 0 0 5px gray;
+    }
+
+    .bilgi li {
+        height: auto;
+        background-color: blue;
+        border: solid 2px black;
+        color: black;
+        margin-top: 15px;
+    }
+
+    .bilgi div li a {
+        text-shadow: 0 0 5px rgb(243, 92, 92);
+    }
+
+    #ps {
+        width: 100%;
+        background-color: red;
+        color: white;
+        text-shadow: 0 0 5px gray;
+    }
+
+    .alt {
+        margin-top: 120px;
+        width: 100%;
+        background-color: red;
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+    p {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+
+
+
+    .odul-icerik img{
+        width: 500px;
+    }
